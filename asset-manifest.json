@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gMovie_Website/static/css/main.d4b54e70.css",
+    "main.js": "/gMovie_Website/static/js/main.31daf65e.js",
+    "static/media/Netflix-logo-red-black-png.png": "/gMovie_Website/static/media/Netflix-logo-red-black-png.73095284cd79acda4276.png",
+    "index.html": "/gMovie_Website/index.html",
+    "main.d4b54e70.css.map": "/gMovie_Website/static/css/main.d4b54e70.css.map",
+    "main.31daf65e.js.map": "/gMovie_Website/static/js/main.31daf65e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4b54e70.css",
+    "static/js/main.31daf65e.js"
+  ]
+}
